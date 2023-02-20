@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/maillioner/static/css/main.e64b68ff.css",
+    "main.js": "/maillioner/static/js/main.08e05b9c.js",
+    "static/js/845.db65dc0d.chunk.js": "/maillioner/static/js/845.db65dc0d.chunk.js",
+    "static/media/play.mp3": "/maillioner/static/media/play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/correct.mp3": "/maillioner/static/media/correct.160572d72c858155072e.mp3",
+    "static/media/wrong.mp3": "/maillioner/static/media/wrong.e946821894ae9b0a0d6f.mp3",
+    "index.html": "/maillioner/index.html",
+    "main.e64b68ff.css.map": "/maillioner/static/css/main.e64b68ff.css.map",
+    "main.08e05b9c.js.map": "/maillioner/static/js/main.08e05b9c.js.map",
+    "845.db65dc0d.chunk.js.map": "/maillioner/static/js/845.db65dc0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e64b68ff.css",
+    "static/js/main.08e05b9c.js"
+  ]
+}
